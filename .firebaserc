@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "goodvibes-4a637": {
+      "hosting": {
+        "goodvibes": [
+          "goodvibes-4a637"
+        ]
+      }
+    }
+  }
+}
