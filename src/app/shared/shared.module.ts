@@ -15,6 +15,7 @@ import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { ShellComponent } from './shell/shell.component';
 
 
+
 const modules = [
   CommonModule,
   MatButtonModule,
@@ -40,8 +41,7 @@ ShellComponent
   ],
   imports: [
     CommonModule,
-    ...modules,
-    ...components
+    ...modules
   ],
   exports: [
 ...modules,
